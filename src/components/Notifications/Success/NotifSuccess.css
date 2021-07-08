@@ -1,0 +1,10 @@
+.ant-notification-notice-close {
+  display: none;
+}
+.ant-notification-notice-icon {
+  transform: translateX(-20px) !important;
+  transform: translateY(-5px) !important;
+}
+/* .ant-notification-notice-message {
+  text-align: right !important;
+} */

@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+}
+
+#nprogress {
+  color: rgb(92, 182, 255) !important;
+}
+
+#nprogress .bar {
+  background: rgb(92, 182, 255) !important;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: rgb(92, 182, 255) !important;
+  border-left-color: rgb(92, 182, 255) !important;
+}
